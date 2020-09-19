@@ -9,9 +9,12 @@
     "type": "git",
     "url": "https://github.com/smoke7747/hexlet-js.git"
   },
-     "scripts": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Smoke7747",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
